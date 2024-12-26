@@ -11,7 +11,7 @@ public class Conta implements ContaRepository {
 
     public Conta() {
         try {
-            conexao = DriverManager.getConnection("jdbc:postgresql://localhost:5432/banco", "usuario", "senha");
+            conexao = DriverManager.getConnection("jdbc:postgresql://localhost:5432/banco", "postgres", "postgres");
         } catch (SQLException e) {
             e.printStackTrace();
         }
