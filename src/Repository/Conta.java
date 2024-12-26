@@ -1,6 +1,6 @@
-package Repository;
+package src.Repository;
 
-import Entities.ContaEntity;
+import src.Entities.ContaEntity;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
-package Service;
+package src.Service;
 
-import Entities.ContaEntity;
+import src.Entities.ContaEntity;
 
 import java.util.List;
 

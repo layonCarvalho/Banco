@@ -1,8 +1,8 @@
-package Service;
+package src.Service;
 
 
-import Entities.ContaEntity;
-import Repository.ContaRepository;
+import src.Entities.ContaEntity;
+import src.Repository.ContaRepository;
 
 import java.util.List;
 
